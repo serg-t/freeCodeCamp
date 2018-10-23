@@ -225,4 +225,4 @@ localeTitle: Операторы PHP
 
 
 #### Дополнительная информация:
-[Операторы в PHP](http://php.net/manual/ru/language.operators.php)
+[Операторы в PHP](http://php.net/manual/ru/language.operators.php).
